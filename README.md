@@ -1,7 +1,7 @@
 # Clash Royale 3D Unity Project
 
 Este proyecto de Unity es una representación en 3D del popular juego Clash Royale, donde se recrea un escenario de batalla con elementos característicos del juego.
-![Escenario]([[https://ibb.co/LNwbFC7](https://i.ibb.co/6XhVM4C/Screenshot-2024-04-11-144239.png](https://i.ibb.co/6XhVM4C/Screenshot-2024-04-11-144239.png)))
+![](https://i.ibb.co/6XhVM4C/Screenshot-2024-04-11-144239.png) ![
 
 
 ## Descripción del Escenario
