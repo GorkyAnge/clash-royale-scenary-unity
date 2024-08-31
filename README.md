@@ -3,9 +3,8 @@
 Creado por: Gorky Palacios Muits
 
 Este proyecto de Unity es una representación en 3D del popular juego Clash Royale, donde se recrea un escenario de batalla con elementos característicos del juego.
-![](https://i.ibb.co/6XhVM4C/Screenshot-2024-04-11-144239.png)
-![](https://i.ibb.co/jRQ0Z7v/Screenshot-2024-04-11-144928.png)
-
+![image](https://github.com/user-attachments/assets/5c573cd6-a2b7-4ef0-bce9-4a5905ad54cc)
+![image](https://github.com/user-attachments/assets/9c9649a5-a8f0-44a0-b526-c6127d08cc0c)
 
 ## Descripción del Escenario
 
