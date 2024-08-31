@@ -11,7 +11,7 @@ Este proyecto de Unity es una representación en 3D del popular juego Clash Roya
 
 El escenario recrea un campo de batalla con los siguientes elementos:
 
-- **Torres**: Hay un total de 6 torres dispuestas en el escenario, 3 de ellas pertenecen al equipo rojo y las otras 3 al equipo azul. Las torres están diseñadas con la temática de perros con armadura, espada y escudo como sus guardianes.
+- **Torres**: Hay un total de 6 torres dispuestas en el escenario, 3 de ellas pertenecen al equipo rojo y las otras 3 al equipo azul. La torres principales están equipadas con perros con armadura, espada y escudo como sus guardianes.
 
 - **Unidades**: Se incluyen varias unidades del juego, como un Baby Dragon, Chispitas y 3 tropas de cerdos. Estas unidades están posicionadas estratégicamente en el escenario para simular un enfrentamiento entre los equipos.
 
